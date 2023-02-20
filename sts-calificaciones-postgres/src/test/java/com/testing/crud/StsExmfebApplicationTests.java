@@ -1,4 +1,4 @@
-package com.walmart.crud;
+package com.testing.crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
